@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Machine Problem</title>
+	<script language="javascript" type="text/javascript">
+		<!--
+			function getGrade(){
+				var retVal = prompt("Enter your grade: ")
+			
+				if ((retVal > 100) || (retVal < 0)) {
+					getGrade();
+				} else{
+				if(retVal >= 50 ) {
+					document.write("Passed");
+					setTimeout("location.reload(true)" , 3000);
+				}
+				
+				else {
+					document.write("Failed");
+					setTimeout("location.reload(true)" , 3000);
+				}
+				}
+			}
+		//-->
+		</script>
+</head>
+<body>
+		<form>
+		Enter your grade here: 
+		<input type="button" onclick="getGrade()" value="Click me" />
+		</form>
+</body>
+</html>
