@@ -1,0 +1,17 @@
+Card1- two humans, human figure
+Card2- bat butterfly moth
+Card3- animal hide, skin, rug
+Card4- bat butterfly moth
+
+Machine Problem5
+Rorschach (4 images)
+-background of the Page
+-prompt()
+-give their answer based on the drawing
+-numbers not allowed
+-seperate page(3 times)(calling 911)
+-window.location = 'next2.html';
+-alert();
+-aug();
+
+session
